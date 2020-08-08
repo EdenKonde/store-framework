@@ -1,8 +1,10 @@
 {
   "store.home": {
     "blocks": [
+      "breadcrumb",
       "flex-layout.row#main",
-      "product-price"
+      "product-price",
+      "flex-layout.row#qty-sku"
 
     ]
   }

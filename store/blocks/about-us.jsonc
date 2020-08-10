@@ -62,8 +62,8 @@
       ],
       "props": {
         "tabId": "electronics",
-        "width": "800",
-        "height": "1000",
+        "width": 800,
+        "height": 1000,
         "src": "https://www.instagram.com/p/B973Qp8BacC/embed"
       }
     },

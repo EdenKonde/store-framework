@@ -61,7 +61,10 @@
         "iframe"
       ],
       "props": {
-        "tabId": "electronics"
+        "tabId": "electronics",
+        "width": "800",
+        "height": "1000",
+        "src": "https://www.instagram.com/p/B973Qp8BacC/embed"
       }
     },
 
@@ -78,7 +81,7 @@
         "textPosition": "CENTER",
         "font": "t-heading-3"
       }
-    }, */
+    }, 
     "iframe": {
       "props": {
         "width": "800",
@@ -86,7 +89,7 @@
         "src": "https://www.instagram.com/p/B973Qp8BacC/embed"
 
       }
-    },
+    },*/
 
      "flex-layout.row#about-us": {
         "children": [
